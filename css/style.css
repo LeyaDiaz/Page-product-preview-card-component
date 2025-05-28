@@ -44,7 +44,7 @@ h1, .precio span{
 }
 
 .img-col{
-    background-image: url(../images/image-product-mobile.jpg);
+    background-image: url(https://leyadiaz.github.io/Page-product-preview-card-component/images/image-product-mobile.jpg);
     background-size: cover;
     background-position: center;
     width: 100%;
@@ -171,7 +171,7 @@ h1, .precio span{
 
 
     .img-col {
-        background-image: url(../images/image-product-desktop.jpg);
+        background-image: url(https://leyadiaz.github.io/Page-product-preview-card-component/images/image-product-desktop.jpg);
         background-size: cover;
         background-position: center;
         height: 100%;
